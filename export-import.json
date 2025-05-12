@@ -1,0 +1,26 @@
+{
+  "income": 0,
+  "categories": [
+    {
+      "name": "Жилье",
+      "amount": 0
+    },
+    {
+      "name": "Питание",
+      "amount": 0
+    },
+    {
+      "name": "Транспорт",
+      "amount": 0
+    },
+    {
+      "name": "Коммунальные услуги",
+      "amount": 0
+    },
+    {
+      "name": "Развлечения",
+      "amount": 0
+    }
+  ],
+  "workHours": 40
+}
